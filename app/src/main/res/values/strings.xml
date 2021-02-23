@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">To Do App</string>
+    <string name="write_your_plan_today">Write your plan today</string>
+    <string name="your_plan_today">YOUR PLAN TODAY</string>
+    <string name="title_plan">Title Plan</string>
+    <string name="delete_plan">Delete Plan</string>
+    <string name="save_plan">Save Plan</string>
+</resources>
